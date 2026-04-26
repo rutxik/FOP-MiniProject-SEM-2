@@ -1,0 +1,98 @@
+The Midnight Garden,Sara Chen,Mystery,Thriller,Drama,1
+Echoes of Tomorrow,James Park,Sci-Fi,Adventure,Action,2
+The Last Prophet,David Kim,Fantasy,Adventure,Mystery,1
+Crimson Shadows,Elena Rodriguez,Horror,Thriller,Mystery,1
+Digital Dreams,Alex Wong,Sci-Fi,Thriller,Drama,1
+The Silver Key,Luna Brooks,Fantasy,Adventure,Romance,1
+Broken Promises,Kate Morrison,Drama,Romance,Thriller,0
+Storm Chasers,Marcus Lee,Action,Adventure,Sci-Fi,1
+Wild Hearts,Derek Jones,Romance,Adventure,Drama,1
+Shadow Protocol,Nina Volkov,Thriller,Sci-Fi,Action,1
+The Forgotten Isle,Ian MacLeod,Adventure,Fantasy,Mystery,0
+Midnight Roses,Emma Clarke,Romance,Drama,Mystery,1
+Circuit Breaker,Kevin Tran,Sci-Fi,Action,Thriller,1
+Painted Skies,Alice Morgan,Drama,Romance,Historical,1
+The Dark Engine,Victor Stone,Sci-Fi,Horror,Thriller,0
+Ocean Embrace,Lily Santos,Romance,Drama,Fantasy,2
+The Unseen War,Connor Blake,Action,Thriller,Sci-Fi,1
+The Iron Crown,Brandon North,Fantasy,Action,Adventure,1
+Silent Witness,Rachel Green,Mystery,Thriller,Drama,0
+Neon Nights,Zara Kim,Sci-Fi,Romance,Drama,2
+The Crimson Tide,Peter Hunt,Action,Thriller,Adventure,1
+The Last Stand,Jake Wilson,Action,Adventure,Sci-Fi,1
+Hidden Truths,Maria Santos,Mystery,Drama,Thriller,0
+The Phoenix Code,Ryan Cooper,Sci-Fi,Thriller,Action,2
+Moonlit Paths,Sophie Rain,Romance,Fantasy,Drama,1
+The Hollow Men,Edward Frost,Horror,Mystery,Thriller,0
+Desert Stars,Aisha Khan,Adventure,Romance,Drama,1
+The Crystal Maze,Lucas White,Fantasy,Adventure,Mystery,1
+The Steel Heart,Marcus Vega,Sci-Fi,Action,Adventure,1
+Whispered Secrets,Julia Moore,Mystery,Romance,Drama,0
+The Time Keeper,Daniel Cross,Sci-Fi,Fantasy,Adventure,1
+Fading Light,Rebecca Snow,Drama,Mystery,Romance,0
+Starlight Dreams,Hannah Lee,Romance,Fantasy,Sci-Fi,1
+The Iron Wolf,Cole Anderson,Fantasy,Action,Adventure,0
+Broken Chains,Vanessa Price,Drama,Thriller,Mystery,1
+The Void Walker,Aaron Black,Sci-Fi,Horror,Thriller,0
+The Dark Tide,Nathan Rivers,Thriller,Horror,Mystery,1
+Summer End,Chloe Adams,Romance,Drama,Mystery,0
+The Storm King,Owen Mitchell,Fantasy,Adventure,Action,1
+Silent Echo,Lauren Bell,Mystery,Thriller,Drama,0
+Neural Net,Simon Yu,Sci-Fi,Thriller,Action,2
+Wild Rose,Megan Wright,Romance,Historical,Drama,0
+Quantum Leap,Richard Hayes,Sci-Fi,Adventure,Thriller,3
+The Emerald Throne,Sophia Bennett,Fantasy,Romance,Adventure,2
+Shattered Mirrors,Thomas Gray,Horror,Mystery,Thriller,1
+Velvet Chains,Isabella Cruz,Romance,Drama,Historical,2
+The Ghost Protocol,Frank Miller,Thriller,Action,Sci-Fi,2
+Eternal Flame,Grace Hamilton,Romance,Fantasy,Drama,1
+The Blood Moon,Vincent Drake,Horror,Thriller,Fantasy,1
+Cosmic Dust,Raj Patel,Sci-Fi,Adventure,Mystery,2
+The Golden Compass,Olivia Reed,Fantasy,Adventure,Drama,1
+Twisted Fate,Gabriel Ross,Thriller,Mystery,Drama,1
+Burning Bridges,Jennifer Walsh,Drama,Romance,Thriller,0
+The Android Dream,Chris Taylor,Sci-Fi,Action,Thriller,2
+Frozen Hearts,Maya Jensen,Romance,Drama,Fantasy,1
+The Obsidian Gate,Malcolm Pierce,Fantasy,Horror,Adventure,1
+City of Ashes,Diana Foster,Fantasy,Action,Romance,2
+The Memory Thief,Paul Richards,Sci-Fi,Mystery,Thriller,1
+Silver Linings,Amanda Scott,Romance,Drama,Comedy,0
+The Quantum Paradox,Helen Chen,Sci-Fi,Thriller,Mystery,3
+Bloodlines,Damien Cross,Horror,Thriller,Fantasy,1
+Wandering Souls,Carmen Flores,Fantasy,Adventure,Romance,1
+The Dark Protocol,Mitchell Kane,Thriller,Sci-Fi,Action,2
+Whispers in the Wind,Sarah Mitchell,Romance,Mystery,Drama,0
+The Seventh Seal,Anthony Ward,Fantasy,Horror,Mystery,1
+Neon Shadows,Kai Zhang,Sci-Fi,Thriller,Action,2
+Hearts of Stone,Emily Brooks,Romance,Historical,Drama,1
+The Raven Call,Benedict Shaw,Fantasy,Mystery,Adventure,1
+Crimson Dawn,Natasha Ivanov,Action,Thriller,Sci-Fi,1
+The Lost Horizon,Timothy North,Adventure,Fantasy,Mystery,0
+Mirror World,Jessica Yang,Sci-Fi,Fantasy,Adventure,2
+The Silent Storm,Robert Coleman,Thriller,Mystery,Drama,1
+Dancing Flames,Valentina Rossi,Romance,Drama,Fantasy,1
+The Void Beyond,Adrian Hunt,Sci-Fi,Horror,Thriller,2
+Fractured Reality,Morgan Davis,Sci-Fi,Thriller,Mystery,3
+The Dragon Heart,Finn O Brien,Fantasy,Adventure,Action,2
+Shadows of the Past,Claire Thompson,Mystery,Drama,Thriller,0
+The Singularity,Walter Kim,Sci-Fi,Thriller,Action,3
+Moonlight Serenade,Isabelle Martin,Romance,Drama,Fantasy,1
+The Black Tower,Garrett Stone,Horror,Fantasy,Mystery,1
+Infinite Horizons,Maya Rodriguez,Sci-Fi,Adventure,Romance,2
+The Forgotten Realm,Derek Walsh,Fantasy,Adventure,Mystery,1
+Silent Thunder,Jack Morrison,Action,Thriller,Adventure,0
+The Crimson Rose,Victoria Lane,Romance,Mystery,Historical,0
+Echoes in the Dark,Patrick Sullivan,Horror,Thriller,Mystery,1
+The Starborn Legacy,Elena Vasquez,Sci-Fi,Fantasy,Adventure,3
+Paradise Lost,Michael Barrett,Drama,Romance,Mystery,0
+The Iron Legion,Conrad Black,Fantasy,Action,Sci-Fi,2
+Twilight Whispers,Amelia Hart,Romance,Fantasy,Drama,1
+The Last Cipher,Raymond Cole,Mystery,Thriller,Sci-Fi,2
+Binary Souls,Akira Tanaka,Sci-Fi,Romance,Thriller,1
+The Shadow Realm,Dorian Grey,Fantasy,Horror,Adventure,1
+Crystal Tears,Lily Zhang,Romance,Drama,Fantasy,0
+The Void Engine,Marcus Webb,Sci-Fi,Action,Thriller,2
+Burning Skies,Jackson Reed,Action,Adventure,Sci-Fi,4
+The Eternal Night,Cassandra Moon,Horror,Fantasy,Romance,9
+Testing,Rutvik,Adventure,Fun,Fiction,0
+temp,temp,temp,temp,tep,1

@@ -1,0 +1,3 @@
+Rutvik,1234,18,MITWPU,BTech Cse,300,0,1000
+something,12345,18,MITWPU,BTech,19,1,10
+hello,987,18,mit,fy btech cse,700,5,5000
